@@ -21,7 +21,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text="✚ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✚",
-                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
         [
